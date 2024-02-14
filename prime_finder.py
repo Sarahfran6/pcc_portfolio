@@ -18,3 +18,5 @@ def find_prime(number):
 
 number = int(input('Please enter a number: '))
 find_prime(number)
+
+
